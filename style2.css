@@ -1,0 +1,95 @@
+.C1{
+	background-color:lime;
+	width:1000px;
+	height:1000px;
+	border-radius:50%
+}
+.C2{
+	background-color:white;
+	width:200px;
+	height:200px;
+	border-radius:50%;
+	position:absolute;
+	top: 100px;
+	left: 250px;
+}
+.C3{
+	background-color:white;
+	width:200px;
+	height:200px;
+	border-radius:50%;
+	position:absolute;
+	top: 100px;
+	left: 550px;
+}
+.C4{
+	background-color:white;
+	width:100px;
+	height:100px;
+	position:absolute;
+	top: 300px;
+	left: 450px;
+}
+.C5{
+	background-color:white;
+	width:500px;
+	height:100px;
+	position:absolute;
+	top: 600px;
+	left: 250px;
+}
+.C6{
+	background-color:gold;
+	width:1000px;
+	height:1000px;
+	border-radius:50%;
+	position:absolute;
+	top: 0px;
+	left: 1300px;
+}
+.C7{
+	background-color:white;
+	width:200px;
+	height:200px;
+	border-radius:50%;
+	position:absolute;
+	top: 100px;
+	left: 250px;
+}
+.C8{
+	background-color:white;
+	width:200px;
+	height:200px;
+	border-radius:50%;
+	position:absolute;
+	top: 100px;
+	left: 550px;
+}
+.C9{
+	background-color:white;
+	width:100px;
+	height:100px;
+	position:absolute;
+	border-radius:50%;
+	top: 300px;
+	left: 450px;
+}
+.C0{
+	background-color:gold;
+	width:500px;
+	height:300px;
+	border-radius:50%;
+	position:absolute;
+	top:500px;
+	left:280px;
+	z-index:10;
+}
+.C10{
+	background-color:white;
+	width:350px;
+	height:300px;
+	border-radius:50%;
+	position:absolute;
+	top:530px;
+	left:330px;
+}
